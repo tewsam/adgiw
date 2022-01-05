@@ -5,9 +5,9 @@ def evenOdd(n):
 		return f"{n} is odd"
 	return f"{n} is even"
 
-print(evenOdd(4))
+print(evenOdd(21))
 
-#4 in binary is 0100 and 1 is 0001 since first bit is not set for
-# even numbers it will alway will return 0
+# 4 in binary is 0100 and 1 is 0001 since first bit is not set for
+ # even numbers it will alway will return 0  
 
 
