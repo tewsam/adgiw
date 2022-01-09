@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <limits.h>
 // given that you can buy stock at a cheaper price and sell it at a later date,
-// what is the max profit you can get
+// what is the max profit you can get?
 int getMaxProfit(int *p){
     int minPrice=INT_MAX;
     int maxProfit=0;
