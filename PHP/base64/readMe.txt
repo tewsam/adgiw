@@ -1,1 +1,0 @@
-shows how to encode flower.png to base64 and base64Decode.php converts the stream back to image; used mainly when you sent binary files via APIs
